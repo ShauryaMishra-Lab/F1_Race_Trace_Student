@@ -8,7 +8,7 @@ It loads race data from Formula 1 (telemetry), calculates each driver's gap to t
 
 ---
 
-## 🏁 What It Does
+ What It Does
 - Loads race lap data using FastF1  
 - Calculates **total race time** and **gap to leader**  
 - Exports the results to a `.csv` file  
@@ -16,7 +16,7 @@ It loads race data from Formula 1 (telemetry), calculates each driver's gap to t
 
 ---
 
-## 📦 Requirements
+Requirements
 Make sure you have Python 3.8+ installed.
 
 Install the required packages:
